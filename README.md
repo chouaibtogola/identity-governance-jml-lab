@@ -14,9 +14,9 @@ JML governance addresses what happens when a user **joins, changes roles, or lea
 
 | Area | Status |
 |---|---|
-| Dynamic membership groups (attribute-based) | ⏳ |
-| Lifecycle Workflow — Joiner (onboarding) | ⏳ |
-| Lifecycle Workflow — Leaver (offboarding) | ⏳ |
+| Dynamic membership groups (attribute-based) | ✅ |
+| Lifecycle Workflow — Joiner (onboarding) | ✅ |
+| Lifecycle Workflow — Leaver (offboarding) | ✅ |
 | Access packages & entitlement management | ⏳ |
 | Access review / certification on the access package | ⏳ |
 
